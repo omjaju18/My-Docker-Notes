@@ -1,4 +1,4 @@
-# Docker Volumes - Complete Guide 
+# Docker Volumes - Complete Guide  
 
 ## 📌 Introduction
 Docker volumes are used to **persist data** between container restarts and share data between containers. Unlike bind mounts, volumes are managed entirely by Docker and stored in `/var/lib/docker/volumes/` on the host system.
